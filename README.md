@@ -12,43 +12,68 @@ Building beautiful web experiences while continuously learning, writing, and gro
 
 ## 🌷 About Me
 
-✨ Computer Science student passionate about Front-End Development.
+I'm a Computer Science student passionate about building clean, responsive, and user-centric web applications. I enjoy transforming ideas into functional digital experiences through modern front-end technologies.
 
-💻 I enjoy creating responsive and user-friendly websites.
-
-✍️ I also love writing meaningful articles and sharing my learning journey.
-
-🌱 Currently learning Python, Java, and Data Structures & Algorithms.
-
-🎯 Goal: To become a skilled Software Engineer while building impactful projects.
+Beyond development, I have experience in technical and content writing, allowing me to communicate complex ideas effectively. I believe in continuous learning and am currently strengthening my skills in Java, Python, and Data Structures & Algorithms while working on projects that contribute to my growth as a Software Engineer.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,python,java,vscode" />
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,java,python,vscode&perline=5" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🌸 **Bloom & Blossom**
-> Modern responsive flower shop website.
+### 🌸 Bloom & Blossom
+A modern and fully responsive flower shop web application featuring product browsing, shopping cart, wishlist, dark mode, live search, and a clean user experience.
 
-💬 **Quote Generator**
-> Responsive quote generator using JavaScript.
+**Tech Stack:** HTML5 • CSS3 • JavaScript
 
-🪟 **Microsoft Clone**
+---
 
-🛒 **Amazon Clone**
+### 🏢 Digital Complaint Management System
+A Java Swing desktop application designed to streamline complaint management through dedicated User, Staff, and Admin dashboards. The system integrates MySQL for secure data storage and provides a graphical user interface for efficient complaint tracking and management.
 
-🛍 **Daraz Clone**
+**Tech Stack:** Java • Java Swing • MySQL • NetBeans • OOP
 
-🏫 **COMSATS University Clone**
+---
+
+### 📝 OOP Quiz Management System
+A Java console-based quiz application developed using Object-Oriented Programming principles. The project demonstrates concepts such as classes, objects, inheritance, polymorphism, and structured program design.
+
+**Tech Stack:** Java • OOP
+
+---
+
+### 🏧 ATM Interface
+A beginner-friendly Java application that simulates ATM operations while demonstrating core Object-Oriented Programming concepts including encapsulation, constructors, input validation, and menu-driven programming.
+
+**Tech Stack:** Java • OOP
+
+---
+
+### 💬 Quotes Generator
+A responsive web application that generates inspirational quotes with features including copy-to-clipboard, text-to-speech, and social sharing.
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript
+
+---
+
+### 💼 Responsive Corporate Landing Page
+A responsive corporate website inspired by modern enterprise web design, developed to practice clean layouts, responsive design, and user-friendly interfaces.
+
+**Tech Stack:** HTML5 • CSS3
+
+---
+
+### 💻 Front-End Development Internship Tasks
+A collection of practical front-end development assignments completed during my internship, showcasing responsive layouts, UI implementation, and JavaScript-based interactions.
+
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
