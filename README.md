@@ -10,7 +10,7 @@ Building beautiful web experiences while continuously learning, writing, and gro
 
 ---
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=parasaijaz09&style=for-the-badge&color=ff69b4"/>
+  <img src="https://komarev.com/ghpvc/?username=parasaijaz09&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 ---
 
@@ -138,19 +138,32 @@ A collection of practical front-end development assignments completed during my 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parasaijaz09&show_icons=true&theme=radical"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasaijaz09&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasaijaz09&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parasaijaz09&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parasaijaz09&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parasaijaz09&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parasaijaz09&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parasaijaz09&theme=tokyonight&utcOffset=5" width="48%" />
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=parasaijaz09&theme=tokyonight&hide_border=true&border_radius=12"/>
-
+  <img src="https://raw.githubusercontent.com/parasaijaz09/parasaijaz09/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
