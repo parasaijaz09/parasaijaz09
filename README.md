@@ -9,6 +9,10 @@ Building beautiful web experiences while continuously learning, writing, and gro
 </p>
 
 ---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=parasaijaz09&style=for-the-badge&color=ff69b4"/>
+</p>
+---
 
 ## 🌷 About Me
 
@@ -133,5 +137,26 @@ A collection of practical front-end development assignments completed during my 
 </p>
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parasaijaz09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasaijaz09&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=parasaijaz09&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</p>
+
+---
+
 
 > 🌸 *Still learning. Still building. One project at a time.*
