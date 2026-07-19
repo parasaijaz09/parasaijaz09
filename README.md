@@ -131,7 +131,7 @@ A collection of practical front-end development assignments completed during my 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/paras-aijaz"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://medium.com/@parasaijaz"><img src="https://cdn.simpleicons.org/medium" width="48"/></a>
+<a href="https://parasaijaz09.medium.com/"><img src="https://cdn.simpleicons.org/medium" width="48"/></a>
 <a href="mailto:parasaijaz09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
