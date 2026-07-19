@@ -20,7 +20,7 @@ Beyond development, I have experience in technical and content writing, allowing
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,java,python,vscode&perline=5" />
 </p>
 
@@ -77,34 +77,70 @@ A collection of practical front-end development assignments completed during my 
 
 ---
 
-## 🏆 Experience
+## 💼 Experience
 
-- 💼 Front-End Development Intern — Elevvo
-- ✍️ Content Writing Intern — InAmigos Foundation
-- 🐍 Python Developer Intern (Starting August 2026)
-- 🌍 ChangeMaker Ambassador
+### 🌐 Front-End Development Intern
+**Elevvo**
+- Developed responsive web interfaces using HTML, CSS, and JavaScript.
+- Worked on practical front-end development tasks focused on clean UI and responsive design.
 
 ---
 
-## 📚 Currently Learning
+### ✍️ Content Writing Intern
+**InAmigos Foundation**
+- Wrote research-based and awareness-focused articles.
+- Strengthened storytelling, research, and communication skills.
 
-- Python
-- Java
+---
+
+### 🐍 Python Developer Intern *(Starting August 2026)*
+- Selected for a Python Development Internship to strengthen programming and software development skills.
+
+---
+
+### 🌍 ChangeMaker Ambassador
+**DataCrumbs**
+- Selected for a 6-week ChangeMaker Program focused on leadership, collaboration, and creating meaningful impact.
+
+---
+
+## 🌱 Currently Learning
+
+- Java Programming
+- Python Programming
 - Data Structures & Algorithms
-- Software Development
+- Software Engineering Principles
+- Human Computer Interaction (HCI)
+- Computer Graphics
 
 ---
 
-## 🤝 Connect With Me
+## 🏅 Certifications
 
-💼 LinkedIn:
-www.linkedin.com/in/paras-aijaz
+- Microsoft Applied Skills Credential
+- Front-End Development Internship Certificate
+- Content Writing Internship Certificate
+- Python Developer Internship Offer
 
-✍️ Medium:
-https://medium.com/@parasaijaz
+---
 
-🌐 Portfolio:
-(Add later)
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/paras-aijaz">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@parasaijaz">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="mailto:parasaijaz09@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
