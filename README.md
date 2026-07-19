@@ -12,7 +12,6 @@ Building beautiful web experiences while continuously learning, writing, and gro
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parasaijaz09&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
----
 
 ## 🌷 About Me
 
