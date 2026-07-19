@@ -137,24 +137,12 @@ A collection of practical front-end development assignments completed during my 
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
+
+[![Paras's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parasaijaz09&theme=tokyo-night&hide_border=true)](https://github.com/parasaijaz09)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasaijaz09&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parasaijaz09&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parasaijaz09&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parasaijaz09&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parasaijaz09&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parasaijaz09&theme=tokyonight&utcOffset=5" width="48%" />
+<img src="https://streak-stats.demolab.com?user=parasaijaz09&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
