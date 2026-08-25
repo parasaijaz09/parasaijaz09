@@ -96,14 +96,19 @@ A collection of practical front-end development assignments completed during my 
 
 ---
 
-### 🐍 Python Developer Intern *(Starting August 2026)*
-- Selected for a Python Development Internship to strengthen programming and software development skills.
+### 🐍 Python Developer Intern *(August 2026 – Present)*
+- Selected for an 8-week Python Development Internship focused on strengthening Python programming, problem-solving, and software development skills through hands-on assignments. Currently building practical applications while developing core Python concepts including variables, conditionals, loops, user input, randomization, error handling, testing, and debugging.
 
 ---
 
 ### 🌍 ChangeMaker Ambassador
 **DataCrumbs**
-- Selected for a 6-week ChangeMaker Program focused on leadership, collaboration, and creating meaningful impact.
+- Selected for DataCrumbs' six-week ChangeMakers program focused on leadership, collaboration, student engagement, and meaningful community impact. Supporting student outreach and program awareness while developing professional communication, networking, and leadership skills. Conducted a university needs-assessment survey that generated 50+ responses and initiated communication with university stakeholders regarding potential collaboration with the ChangeMakers program.
+
+---
+
+### Global Ambassador — WomenTech Network *(August 2026 – Present)*
+- Representing WomenTech Network by connecting with women in technology, sharing learning and networking opportunities, and supporting greater awareness of the global tech community. Developing leadership, communication, networking, and community-building skills while contributing to a more connected and supportive environment for women in technology.
 
 ---
 
